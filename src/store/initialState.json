@@ -1,0 +1,13 @@
+{
+    "page": {
+        "current": 1,
+        "prev": "",
+        "next": "",
+        "pages": 1
+    },
+    "characters": {
+        "items": [],
+        "loading": true,
+        "error": null
+    }
+}
